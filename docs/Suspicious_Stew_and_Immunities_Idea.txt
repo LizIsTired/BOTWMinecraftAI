@@ -1,0 +1,28 @@
+(Milk Bottles)
+- Milk Bottles replace Milk Buckets in the cake recipe and are acquired by milking a cow with an empty bottle
+
+- Milk Bottles on their own do nothing, but if you are to feed a cow a flower and THEN milk them, you will get a milk bottle that provides immunities
+
+
+(Immunity)
+- When you drink a Flower Milk Bottle, you become immune to whatever effects correspond to the flower in this chart
+
+- Immunity lasts a short while, and the duration can be increased by drinking more of the same Milk Bottle type
+
+- You can only have one immunity active at a time. Essentially you just have one slot
+
+- Immunity will not get rid of negative effects; it only makes the effects not effect you. Your immunity timer can run out before your negative effects timer
+
+
+(Changes)
+- Suspicious Stew will give only short-lived negative effects based on flower type
+
+- All Cows and Mooshrooms can eat flowers now
+
+- 1 flower equals 1 Suspicious Stew or Immunity Milk Bottle. When fed a flower, the cow will have potion particles around it until milked
+
+- Milk Buckets will now only cure positive and neutral effects
+
+- Suspicious Stew gives the player 1 more hunger than Mushroom Stew
+
+- 1 mushroom equals 1 stew. No more infinite food via Mooshroom
